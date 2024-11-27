@@ -1,4 +1,5 @@
 autumn27/scopesentry:latest
 autumn27/scopesentry-scan:latest
+6053537/portainer-ce
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
