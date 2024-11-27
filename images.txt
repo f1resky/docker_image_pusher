@@ -1,5 +1,5 @@
-redis:7.0.11
-mongo:7.0.4
+redis
+mongo
 autumn27/scopesentry:latest
 autumn27/scopesentry-scan:latest
 6053537/portainer-ce
